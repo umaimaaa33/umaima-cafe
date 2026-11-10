@@ -1,0 +1,33 @@
+/*Umaima Sohail 
+i263009
+Section-A 
+*/
+<style>
+body {
+  background-color: rgb(236, 209, 173);
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+
+}
+h1{
+    font-size: 26px;
+    margin-bottom: 4px;
+
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: bisque;
+
+}
+button{
+    background-color: azure;
+    color: burlywood;
+    
+}
+</style>
+</head>
+<body>
+</body>
+</html>
