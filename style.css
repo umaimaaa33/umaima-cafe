@@ -102,3 +102,10 @@ footer {
     object-fit: cover;
     border-radius: 10px;
 }
+.gallery-container img {
+    transition: transform 0.3s ease;
+}
+
+.gallery-container img:hover {
+    transform: scale(1.05);
+}
